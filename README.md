@@ -2,7 +2,17 @@
 ## Guild system for Minecraft 1.13.2 server
 ![PropertyGuilds](https://i.imgur.com/QWu1DYg.png)
 #
-***Dependencies***: [NameManager (https://www.spigotmc.org/resources/namemanager.5147/)]
+**Description**
+```
+Guild system that operates fully asynchronously, meaning it does not block the server's main thread (XD). 
+This allows the guild system to function faster and more smoothly, and the server can handle more players.
+This plugin enables the creation and management of in-game guilds, including adding and removing players, setting guild ranks, establishing guild points, and much more. 
+All of these features are available in-game, allowing players to fully utilize the guild system without the need for logging onto a website or using other tools.
+The plugin operates fully asynchronously, so no additional configuration or settings are required, making it easy and quick to add the guild system to a Minecraft server. 
+Additionally, the plugin is optimized for performance, meaning it uses minimal server resources and can handle large numbers of players simultaneously.
+With this Minecraft plugin featuring a guild system, significant amounts of server resources can be saved, allowing even up to 1000 players on a server!!! 
+The guild system also promotes player engagement in the game by adding new goals and opportunities, such as earning guild points, advancing to higher ranks, and battling other guilds.
+```
 #
 **Permissions**:
 * propertyguilds.default - default plugin access
